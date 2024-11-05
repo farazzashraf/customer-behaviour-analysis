@@ -1,0 +1,5 @@
+train: ../mall_dataset/train
+val: ../mall_dataset/val
+
+nc: 1  # Number of classes
+names: ['pedestrian']  # Class names
